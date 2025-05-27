@@ -9,9 +9,9 @@ I'm Matt, a full-stack software engineer, tech enthusiast, and creator.
 - React
 - Node
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=msmps&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=500&include_all_commits=true)](https://github.com/msmps)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=msmps&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=475&include_all_commits=true)](https://github.com/msmps)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmps&show_icons=true&theme=catppuccin_mocha)](https://github.com/msmps)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmps&show_icons=true&theme=catppuccin_mocha&card_width=475)](https://github.com/msmps)
 
 ### Support
 
