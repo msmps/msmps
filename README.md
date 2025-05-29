@@ -2,16 +2,19 @@
 
 I'm Matt, a full-stack software engineer, tech enthusiast, and creator.
 
-### Expertise in
+### Expertise
 
 - TypeScript
 - JavaScript
 - React
 - Node
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=msmps&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=475&include_all_commits=true)](https://github.com/msmps)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmps&show_icons=true&theme=catppuccin_mocha&card_width=475)](https://github.com/msmps)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msmps&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=475&include_all_commits=true" />
+</a>
+<a href="https://github.com/msmps">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmps&theme=catppuccin_mocha&layout=compact" />
+</a>
 
 ### Support
 
