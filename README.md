@@ -10,10 +10,10 @@ I'm Matt, a full-stack software engineer, tech enthusiast, and creator.
 - Node
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msmps&show_icons=true&theme=catppuccin_mocha&rank_icon=github&card_width=475&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=msmps&show_icons=true&theme=catppuccin_mocha&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/msmps">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmps&theme=catppuccin_mocha&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmps&theme=catppuccin_mocha&layout=compact&card_width=320" />
 </a>
 
 ### Support
