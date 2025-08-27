@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Matt
+### Hey there 👋
 
 I'm Matt, a full-stack software engineer, tech enthusiast, and creator.
 
